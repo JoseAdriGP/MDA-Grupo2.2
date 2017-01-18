@@ -8,3 +8,10 @@ Pasamos a a la zona de visionado
 |--------|--------|--------|
 |![Profile Screen](./screenshots/ProfileScreen_min.png) | ![Imagen](./screenshots/LoginInicioScreen_min.png) | ![Imagen](./screenshots/ListScreen_min.png) |
 
+# Visualización de la web administrativa
+
+Un pequeño texto
+
+| Perfil | Inicio | Lista |
+|--------|--------|--------|
+|![Profile Screen](./aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
