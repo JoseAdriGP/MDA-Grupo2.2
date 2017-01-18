@@ -1,4 +1,10 @@
 # MDA-Grupo2.2
-Esta es nuestra pedazo de web super genial
+Aquí iría una pequeña introducción
 
-![Imagen](./screenshots/HistoriaScreen_min.png)
+#Visionado de la aplicación
+Pasamos a a la zona de visionado
+
+| Perfil | Inicio |
+|--------|--------|
+|![Profile Screen](./screenshots/ProfileScreen_min.png) | ![Imagen](./screenshots/LoginInicioScreen_min.png) |
+
