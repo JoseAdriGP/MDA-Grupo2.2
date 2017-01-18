@@ -12,6 +12,6 @@ Pasamos a a la zona de visionado
 
 Un pequeño texto
 
-| Perfil | Inicio | Lista |
+| Añadir | Gestión | Sugerencia |
 |--------|--------|--------|
 |![Profile Screen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
