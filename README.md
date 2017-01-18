@@ -14,4 +14,4 @@ Un pequeño texto
 
 | Perfil | Inicio | Lista |
 |--------|--------|--------|
-|![Profile Screen](./aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
+|![Profile Screen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
