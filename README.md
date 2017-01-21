@@ -1,4 +1,4 @@
-[Historias de Usuario](#historias-usuario)
+| [Historias de Usuario](#historias-usuario) | [Sprints y entregas](#sprints-entregas) |
 
 # Ciudad oculta
 > Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
@@ -70,7 +70,7 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 
 # <a id="historias-usuario"></a>
 
-### Historias de Ususario (HU) 
+### Historias de Usuario (HU) 
 
 |Identificador|Título|Estimación|Prioridad|
 |--------|--------|--------|--------|
@@ -107,6 +107,7 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 
 > El cuadro anterior muestra las HU que se decidieron para este proyecto
 
+# <a id="sprints-entregas"></a>
 
 ### Sprints y entregas
 
