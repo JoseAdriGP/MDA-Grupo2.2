@@ -66,8 +66,8 @@ Para decidir el nombre, se recurrió también a la técnica de brainstroming par
 ### Herramientas utilizadas
 
 * Kanban
-* [Trello:](https://trello.com/b/6mIAsFnn/ciudad-oculta)
-* [Google Drive:](https://goo.gl/hpRHmm)
+* [Trello](https://trello.com/b/6mIAsFnn/ciudad-oculta)
+* [Google Drive](https://goo.gl/hpRHmm)
 * Justinmind 
 * GitHub
 * Haroopad
