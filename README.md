@@ -1,3 +1,4 @@
+[Historias de Usuario](#historias-usuario)
 # Ciudad oculta
 > Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
 
@@ -59,7 +60,7 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 * Javier Martínez Montilla - Presentador
 * Samuel Peregrina Morillas - Gestor de Calidad
 
-### Historias de Ususario (HU)
+### Historias de Ususario (HU) <a id="historias-usuario"></a>
 
 
 |Identificador|Título|Estimación|Prioridad|
