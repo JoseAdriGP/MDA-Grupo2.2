@@ -120,7 +120,7 @@ La división en tareas se hizo siempre al iniciar un sprint, por lo que así ser
 #### Primer Sprint
 Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 
-||Historia de Usuario 2| | |
+| |Historia de Usuario 2| | |
 |--------|
 |Identificador|Título|Estimación|Desarrollador asignado|
 |Tarea 2-1|Diseño del boceto en papel de la IU para visualización de puntos geográficos|4|José Adrián Garrido Puertas|
@@ -128,10 +128,11 @@ Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 |Tarea 2-3|Implementación de la interacción de la IU para visualización de puntos geográficos|4|Javier Martínez Montilla|
 |Tarea 2-4|Diseño del diagrama de flujo asociado a las funcionalidades de localización y visualización de puntos geográficos|4|Javier Labrat Rodríguez|
 |Tarea 2-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de puntos geográficos|4|José Antonio Martínez López| 
-|Tarea 2-6|Implementación de la funcionalidad para visualización de puntos geográficos|5| |
+|Tarea 2-6|Implementación de la funcionalidad para visualización de puntos geográficos|5| - |
 
+#
 
-||Historia de Usuario 4|
+| |Historia de Usuario 4| | |
 |--------|
 |Identificador|Título|Estimación|Desarrollador asignado|
 |Tarea 4-1|Diseño del boceto en papel de la IU para visualización de información (historia/leyenda)|4|José Adrián Garrido Puertas|
@@ -139,9 +140,11 @@ Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 |Tarea 4-3|Implementación de la interacción de la IU para visualización de información (historia/leyenda)|4|Javier Martínez Montilla|
 |Tarea 4-4|Diseño del diagrama de flujo asociado a la obtención de información (historias/leyendas) de la base de datos|4|Javier Labrat Rodríguez|
 |Tarea 4-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de información (historias/leyendas)|4|José Antonio Martínez López| 
-|Tarea 4-6|Implementación de la funcionalidad para visualización de información (historia/leyenda)|5|------|
+|Tarea 4-6|Implementación de la funcionalidad para visualización de información (historia/leyenda)|5| - |
 
-||Historia de Usuario 3|
+#
+
+| |Historia de Usuario 3| | |
 |--------|
 |Identificador|Título|Estimación|Desarrollador asignado|
 |Tarea 3-1|Diseño del boceto en papel de la IU para visualización de información relacionada con el punto de interés|4|José Adrián Garrido Puertas|
@@ -149,7 +152,7 @@ Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 |Tarea 3-3|Implementación de la interacción de la IU para visualización de información relacionada con el punto de interés|4|Javier Martínez Montilla|
 |Tarea 3-4|Diseño del diagrama de flujo asociado a la obtención de información relacionada con el punto de interés de la base de datos|4|Javier Labrat Rodríguez|
 |Tarea 3-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de información relacionada con el punto de interés|4|José Antonio Martínez López| 
-|Tarea 3-6|Implementación de la funcionalidad para visualización de información relacionada con el punto de interés|5|------|
+|Tarea 3-6|Implementación de la funcionalidad para visualización de información relacionada con el punto de interés|5| - |
 
 #### Segundo Sprint
 Para el segundo sprint, las tareas seleccionadas fueron "HU.8", "HU.19", "HU.20", "HU.9", "HU.15" y "HU.16".
