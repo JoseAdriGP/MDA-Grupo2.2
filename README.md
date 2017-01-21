@@ -127,6 +127,35 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 
 ### Sprints y entregas
 
+#### Cálculo de la velocidad del equipo
+
+Partimos de un **equipo de desarrollo** formado por 5 programadores que dedicaron un 100% de su trabajo al proyecto.
+
+La duración de cada una de las iteraciones que realizamos en el proyecto fue de 2 semanas.
+La estimación realizada del esfuerzo de cada una de las historias de usuario se ha expresado en días ideales de programación. En nuestro entorno de trabajo estimamos que un día ideal de programación se correspondía con 2 a 3 días reales de trabajo.
+
+La **duración de una iteración** fue:
+
+1 Iteración = 2 semanas = 10 Días reales
+
+La **Velocidad** del equipo de desarrollo medido en puntos de historia fue:
+
+5 Programadores * 10 = 50 días reales por iteración => 10 PH por iteración.
+
+Se decidió usar **10 Puntos de historia** como la velocidad estimada del equipo.
+
+#### Descripción de las entregas
+
+**Esfuerzo total del proyecto** = 60 PH
+**Velocidad del equipo** = 10 PH (por iteración)
+
+En base al esfuerzo necesario y la velocidad estimada del equipo, para el desarrollo del proyecto se realizaron **tres entregas de dos iteraciones cada una de ellas**.
+
+El **plan de entregas** del producto es el siguiente:
+
+| Plan de entregas |
+|:--------:|
+| ![Imagen](./screenshots/PlanEntregas.png) |
 
 # <a id="tareas"></a>
 
