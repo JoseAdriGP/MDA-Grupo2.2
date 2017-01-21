@@ -69,6 +69,7 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 * Samuel Peregrina Morillas - Gestor de Calidad
 
 # <a id="historias-usuario"></a>
+
 ### Historias de Ususario (HU) 
 
 |Identificador|Título|Estimación|Prioridad|
