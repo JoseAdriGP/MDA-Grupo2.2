@@ -1,17 +1,24 @@
-# MDA-Grupo2.2
-Aquí iría una pequeña introducción
+# Ciudad oculta
+Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
 
-# Visionado de la aplicación
-Pasamos a a la zona de visionado
+## Producto
+### Visionado de la aplicación
+Pasamos a mostrar el resultado final del proyecto.
 
-| Perfil | Inicio | Lista |
+| Inicio de la aplicación | Perfil de usuario | Lista de lugares visitados | Historia de un lugar visitado |
+|--------|--------|--------|--------|
+| ![Imagen](./screenshots/LoginInicioScreen_min.png) | ![Profile Screen](./screenshots/ProfileScreen_min.png) | ![Imagen](./screenshots/ListScreen_min.png) | ![Imagen](./screenshots/HistoriaScreen_min.png) |
+
+| Realidad aunmentada | Enviar sugerencias | Mapa |
 |--------|--------|--------|
-|![Profile Screen](./screenshots/ProfileScreen_min.png) | ![Imagen](./screenshots/LoginInicioScreen_min.png) | ![Imagen](./screenshots/ListScreen_min.png) |
+| ![Imagen](./screenshots/RAScreen_min.png) | ![Profile Screen](./screenshots/SuggestionScreen_min.png) | ![Imagen](./screenshots/MapScreen_min.png) |
 
-# Visualización de la web administrativa
+### Visualización de la web administrativa
 
 Un pequeño texto
 
-| Añadir | Gestión | Sugerencia |
+| Añadir punto de interás| Gestión de los puntos de interés | Sugerencias |
 |--------|--------|--------|
 |![Profile Screen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
+
+## Proceso de desarrollo
