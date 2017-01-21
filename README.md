@@ -130,7 +130,7 @@ Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 |Tarea 2-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de puntos geográficos|4|José Antonio Martínez López| 
 |Tarea 2-6|Implementación de la funcionalidad para visualización de puntos geográficos|5| - |
 
-#
+# ** **
 
 | |Historia de Usuario 4| | |
 |--------|
@@ -142,7 +142,7 @@ Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 |Tarea 4-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de información (historias/leyendas)|4|José Antonio Martínez López| 
 |Tarea 4-6|Implementación de la funcionalidad para visualización de información (historia/leyenda)|5| - |
 
-#
+# ** **
 
 | |Historia de Usuario 3| | |
 |--------|
