@@ -1,5 +1,7 @@
 [Historias de Usuario](#historias-usuario)
 
+[Apartado administrativo](#Apartado-administrativo)
+
 # Ciudad oculta
 > Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
 
@@ -51,6 +53,13 @@ Para decidir el nombre, se recurrió también a la técnica de brainstroming par
 
 ### Herramientas utilizadas
 
+* Kanban
+* Trello
+* Google Drive
+* Justinmind
+* GitHub
+* Haroopad
+
 ### Intergantes y roles del equipo de desarrollo
 
 A continuación mostramos a los integrantes del grupo de trabajo con sus respectivos roles asociados:
@@ -63,7 +72,6 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 
 ### Historias de Ususario (HU) <a id="historias-usuario"></a>
 
-
 |Identificador|Título|Estimación|Prioridad|
 |--------|--------|--------|--------|
 |HU.1|Un invitado puede registrarse en la aplicación|3|2|
@@ -73,7 +81,7 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 |HU.5|Un usuario/invitado puede escuchar una historia/leyenda de un punto de interés visitado|1|3|
 |HU.6|Un usuario registrado puede consultar puntos de interés visitados|1/2|2|
 |HU.7|Un usuario registrado puede consultar puntos de interés sin visitar por los que se haya pasado|1|2|
-|HU.8|Un usuario registrado puede sugerir un punto de interés |8|1| 
+|HU.8|Un usuario registrado puede sugerir un punto de interés|8|1| 
 |HU.9|Un usuario registrado puede consultar su perfil|1/2|1| 
 |HU.10|Un usuario registrado puede consultar sus bonificaciones|1|2|
 |HU.11|Un usuario registrado puede eliminar su registro|1/2|3|
@@ -97,8 +105,104 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 |HU.29|Un usuario puede comparar su progreso con otro usuario. |8|3|
 |HU.30|La aplicación publicará periódicamente un ranking con los puntos favoritos según la zona.|5|3|
 
+> El cuadro anterior muestra las HU que se decidieron para este proyecto
 
 
 ### Sprints y entregas
 
+
+
 ### División de HU en función del sprint abordado
+
+La división en tareas se hizo siempre al iniciar un sprint, por lo que así será como las definamos aquí.
+
+#### Primer Sprint
+Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
+
+||Historia de Usuario 2|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 2-1|Diseño del boceto en papel de la IU para visualización de puntos geográficos|4|José Adrián Garrido Puertas|
+|Tarea 2-2|Diseño del boceto digital de la IU para visualización de puntos geográficos|4|Samuel Peregrina Morillas|
+|Tarea 2-3|Implementación de la interacción de la IU para visualización de puntos geográficos|4|Javier Martínez Montilla|
+|Tarea 2-4|Diseño del diagrama de flujo asociado a las funcionalidades de localización y visualización de puntos geográficos|4|Javier Labrat Rodríguez|
+|Tarea 2-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de puntos geográficos|4|José Antonio Martínez López| 
+|Tarea 2-6|Implementación de la funcionalidad para visualización de puntos geográficos|5|------|
+
+||Historia de Usuario 4|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 4-1|Diseño del boceto en papel de la IU para visualización de información (historia/leyenda)|4|José Adrián Garrido Puertas|
+|Tarea 4-2|Diseño del boceto digital de la IU para visualización de información (historia/leyenda)|4|Samuel Peregrina Morillas|
+|Tarea 4-3|Implementación de la interacción de la IU para visualización de información (historia/leyenda)|4|Javier Martínez Montilla|
+|Tarea 4-4|Diseño del diagrama de flujo asociado a la obtención de información (historias/leyendas) de la base de datos|4|Javier Labrat Rodríguez|
+|Tarea 4-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de información (historias/leyendas)|4|José Antonio Martínez López| 
+|Tarea 4-6|Implementación de la funcionalidad para visualización de información (historia/leyenda)|5|------|
+
+||Historia de Usuario 3|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 3-1|Diseño del boceto en papel de la IU para visualización de información relacionada con el punto de interés|4|José Adrián Garrido Puertas|
+|Tarea 3-2|Diseño del boceto digital de la IU para visualización de información relacionada con el punto de interés|4|Samuel Peregrina Morillas|
+|Tarea 3-3|Implementación de la interacción de la IU para visualización de información relacionada con el punto de interés|4|Javier Martínez Montilla|
+|Tarea 3-4|Diseño del diagrama de flujo asociado a la obtención de información relacionada con el punto de interés de la base de datos|4|Javier Labrat Rodríguez|
+|Tarea 3-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de información relacionada con el punto de interés|4|José Antonio Martínez López| 
+|Tarea 3-6|Implementación de la funcionalidad para visualización de información relacionada con el punto de interés|5|------|
+
+#### Segundo Sprint
+Para el segundo sprint, las tareas seleccionadas fueron "HU.8", "HU.19", "HU.20", "HU.9", "HU.15" y "HU.16".
+
+||Historia de Usuario 8|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 8-1|Especificación en grupo de las funcionalidades asociadas|0.5|Equipo|
+|Tarea 8-2|Diseño del boceto en papel de la IU para la sugerencia de puntos de interés|5|José Adrián Garrido Puertas|
+|Tarea 8-3|Diseño del boceto digital de la IU para la sugerencia de puntos de interés|5|Samuel Peregrina Morillas|
+|Tarea 8-4|Implementación de la interacción de la IU para la sugerencia de puntos de interés|4|Javier Martínez Montilla|
+|Tarea 8-5|Implementación de la funcionalidad para la sugerencia de puntos de interés|4|------| 
+
+||Historia de Usuario 19|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 19-1|Especificación en grupo de las funcionalidades asociadas|0.5|Equipo|
+|Tarea 19-2|Diseño del boceto en papel de la IU para la sugerencia de puntos de interés|1|José Antonio Martínez López|
+|Tarea 19-3|Diseño del boceto digital de la IU para la sugerencia de puntos de interés|1|José Antonio Martínez López|
+|Tarea 19-4|Implementación de la interacción de la IU para la sugerencia de puntos de interés|1|José Antonio Martínez López|
+|Tarea 19-5|Implementación de la funcionalidad para la sugerencia de puntos de interés|1|------| 
+
+||Historia de Usuario 20|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 20-1|Especificación en grupo de las funcionalidades asociadas|0.5|Equipo|
+|Tarea 20-2|Diseño del boceto en papel de la IU para la sugerencia de puntos de interés|1|José Antonio Martínez López|
+|Tarea 20-3|Diseño del boceto digital de la IU para la sugerencia de puntos de interés|1|José Antonio Martínez López|
+|Tarea 20-4|Implementación de la interacción de la IU para la sugerencia de puntos de interés|1|José Antonio Martínez López|
+|Tarea 20-5|Implementación de la funcionalidad para la sugerencia de puntos de interés|1|------| 
+
+||Historia de Usuario 9|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 9-1|Especificación en grupo de las funcionalidades asociadas|0.5|Equipo|
+|Tarea 9-2|Diseño del boceto en papel de la IU para la consulta del perfil del usuario|1|José Antonio Martínez López|
+|Tarea 9-3|Diseño del boceto digital de la IU para la consulta del perfil del usuario|1|Javier Labrat Rodríguez|
+|Tarea 9-4|Implementación de la interacción de la IU para la consulta del perfil del usuario|1|Javier Martínez Montilla|
+|Tarea 9-5|Implementación de la funcionalidad para la consulta del perfil del usuario|1|------| 
+
+||Historia de Usuario 15|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 15-1|Especificación en grupo de las funcionalidades asociadas|0.5|Equipo|
+|Tarea 15-2|Diseño del boceto en papel de la IU para la identificación de un usuario|1|Javier Labrat Rodríguez|
+|Tarea 15-3|Diseño del boceto digital de la IU para la identificación de un usuario|1|Javier Labrat Rodríguez|
+|Tarea 15-4|Implementación de la interacción de la IU para la identificación de un usuario|1|Javier Labrat Rodríguez|
+|Tarea 15-5|Implementación de la funcionalidad para la identificación de un usuario|1|------| 
+
+
+||Historia de Usuario 16|
+|--------|
+|Identificador|Título|Estimación|Desarrollador asignado|
+|Tarea 16-1|Especificación en grupo de las funcionalidades asociadas|0.5|Equipo|
+|Tarea 16-2|Diseño del boceto en papel de la IU para añadir un punto de interés por un administrador|2|José Adrián Garrido Puertas|
+|Tarea 16-3|Diseño del boceto digital de la IU para añadir un punto de interés por un administrador|2|Samuel Peregrina Morillas|
+|Tarea 16-4|Implementación de la interacción de la IU para añadir un punto de interés por un administrador|2|Javier Martínez Montilla|
+|Tarea 16-5|Implementación de la funcionalidad para añadir un punto de interés por un administrador|2|------| 
