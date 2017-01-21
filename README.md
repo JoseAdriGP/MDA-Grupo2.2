@@ -32,6 +32,21 @@ Cada ciudad debe gestionar los lugares que permite. Para ello, hemos monstado un
 
 | Añadir punto de interás| Gestión de los puntos de interés | Sugerencias |
 |--------|--------|--------|
-|![Profile Screen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
+|![Imagen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
 
 ## Proceso de desarrollo
+> En este apartado vamos a hablar sobre como él equipo se ha ido organizando para llevar a cabo las tareas asociadas al proyecto.
+
+### Obtención de ideas
+
+![Imagen](./screenshots/mapaMental.png)
+
+### Herramientas utilizadas
+
+### Intergantes y roles del equipo de desarrollo
+
+### Historias de Ususario (HU)
+
+### Sprints y entregas
+
+### División de HU en función del sprint abordado
