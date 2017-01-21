@@ -120,7 +120,7 @@ La división en tareas se hizo siempre al iniciar un sprint, por lo que así ser
 #### Primer Sprint
 Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 
-||Historia de Usuario 2|
+||Historia de Usuario 2| | |
 |--------|
 |Identificador|Título|Estimación|Desarrollador asignado|
 |Tarea 2-1|Diseño del boceto en papel de la IU para visualización de puntos geográficos|4|José Adrián Garrido Puertas|
@@ -128,7 +128,8 @@ Para el primer sprint, las tareas seleccionadas fueron "HU.3", "HU.3" y "HU.4".
 |Tarea 2-3|Implementación de la interacción de la IU para visualización de puntos geográficos|4|Javier Martínez Montilla|
 |Tarea 2-4|Diseño del diagrama de flujo asociado a las funcionalidades de localización y visualización de puntos geográficos|4|Javier Labrat Rodríguez|
 |Tarea 2-5|Diseño del diagrama de clases asociado a la base de datos para almacenamiento de puntos geográficos|4|José Antonio Martínez López| 
-|Tarea 2-6|Implementación de la funcionalidad para visualización de puntos geográficos|5|------|
+|Tarea 2-6|Implementación de la funcionalidad para visualización de puntos geográficos|5| |
+
 
 ||Historia de Usuario 4|
 |--------|
