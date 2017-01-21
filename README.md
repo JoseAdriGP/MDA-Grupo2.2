@@ -39,11 +39,25 @@ Cada ciudad debe gestionar los lugares que permite. Para ello, hemos monstado un
 
 ### Obtención de ideas
 
+Para decidir que hacer, el grupo opto por el uso del brainstorming para llegar a consenso sobre cual sería la idea ganadora. Tras varias ideas desechadas, finalmente llegamos a esta aplicación.
+
 ![Imagen](./screenshots/mapaMental.png)
+
+> Este mapa mental nos muestra como fue la evolución de las ideas para el proyecto.
+
+Para decidir el nombre, se recurrió también a la técnica de brainstroming para obtener varios nombre y poder decidir cual es el más adecuado para la aplicación.
 
 ### Herramientas utilizadas
 
 ### Intergantes y roles del equipo de desarrollo
+
+A continuación mostramos a los integrantes del grupo de trabajo con sus respectivos roles asociados:
+
+* José Antonio Martínez López - Coordinador
+* Javier Labrat Rodríguez - Catalogador
+* José Adrián Garrido Puertas - Moderador
+* Javier Martínez Montilla - Presentador
+* Samuel Peregrina Morillas - Gestor de Calidad
 
 ### Historias de Ususario (HU)
 
