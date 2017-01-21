@@ -1,7 +1,6 @@
-| [Producto:](#producto) | [Aplicación movil](#aplicacion) | [Panel de administración web](#administracion) |
-| [Desarrollo:](#desarrollo) | [Obtención de ideas](#ideas) | [Herramientas utilizadas](#herramientas) |
-| | [Integrantes del equipo](#equipo) | [Historias de Usuario](#historias-usuario) |
-| | [Sprints y entregas](#sprints-entregas) | [División en tareas](#tareas) |
+| [Producto:](#producto) | [Aplicación movil](#aplicacion) | [Panel de administración web](#administracion) | |
+| [Desarrollo:](#desarrollo) | [Obtención de ideas](#ideas) | [Herramientas utilizadas](#herramientas) | [Integrantes del equipo](#equipo) | 
+| | [Historias de Usuario](#historias-usuario) | [Sprints y entregas](#sprints-entregas) | [División en tareas](#tareas) |
 
 # Ciudad oculta
 > Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
@@ -41,7 +40,7 @@ Cada ciudad debe gestionar los lugares que permite. Para ello, hemos monstado un
 
 > El motivo para desarrollar el aspecto administrativo de esta forma es a que el planteamiento de esta aplicación es _fomentar el turismo_ facilitando la información al viajante, por lo que la administración de sus puntos recae sobre la oficina de turismo, o del ayuntamiento que desee este servicio.
 
-| Añadir punto de interás| Gestión de los puntos de interés | Sugerencias |
+| Añadir punto de interés | Gestión de los puntos de interés | Sugerencias |
 | :-------------: | :-------------: | :-------------: |
 |![Imagen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
 
@@ -67,9 +66,9 @@ Para decidir el nombre, se recurrió también a la técnica de brainstroming par
 ### Herramientas utilizadas
 
 * Kanban
-* Trello
-* Google Drive
-* Justinmind
+* [Trello:](https://trello.com/b/6mIAsFnn/ciudad-oculta)
+* [Google Drive:](https://goo.gl/hpRHmm)
+* Justinmind 
 * GitHub
 * Haroopad
 
