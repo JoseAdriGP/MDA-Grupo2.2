@@ -1,7 +1,5 @@
-| Producto | |
-| [Aplicación movil](#aplicacion) | [Panel de administración web](#administracion) |
-
-| [Historias de Usuario](#historias-usuario) | [Sprints y entregas](#sprints-entregas) |
+| Producto: | [Aplicación movil](#aplicacion) | [Panel de administración web](#administracion) |
+| [Desarrollo:](#desarrollo)| [Historias de Usuario](#historias-usuario) | [Sprints y entregas](#sprints-entregas) |
 
 # Ciudad oculta
 > Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
@@ -42,6 +40,8 @@ Cada ciudad debe gestionar los lugares que permite. Para ello, hemos monstado un
 | Añadir punto de interás| Gestión de los puntos de interés | Sugerencias |
 | :-------------: | :-------------: | :-------------: |
 |![Imagen](./screenshots/aniadir.png) | ![Imagen](./screenshots/panelgestion.png) | ![Imagen](./screenshots/sugerencia.png) |
+
+# <a id="desarrollo"></a>
 
 ## Proceso de desarrollo
 > En este apartado vamos a hablar sobre como él equipo se ha ido organizando para llevar a cabo las tareas asociadas al proyecto.
