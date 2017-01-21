@@ -1,8 +1,12 @@
-| Producto: | [Aplicación movil](#aplicacion) | [Panel de administración web](#administracion) |
-| [Desarrollo:](#desarrollo)| [Historias de Usuario](#historias-usuario) | [Sprints y entregas](#sprints-entregas) |
+| [Producto:](#producto) | [Aplicación movil](#aplicacion) | [Panel de administración web](#administracion) |
+| [Desarrollo:](#desarrollo) | [Obtención de ideas](#ideas) | [Herramientas utilizadas](#herramientas) |
+| | [Integrantes del equipo](#equipo) | [Historias de Usuario](#historias-usuario) |
+| | [Sprints y entregas](#sprints-entregas) | [División en tareas](#tareas) |
 
 # Ciudad oculta
 > Con sumo placer presentamos una aplicación que revolucionará el turismo, permitiendo mayor dinamismo y acercando lugares inexplorados a todos aquellos que deseen perderse por las calles de las ciudades que visiten empapándose de la historia que los rodea. 
+
+# <a id="producto"></a>
 
 ## Producto
 
@@ -46,6 +50,8 @@ Cada ciudad debe gestionar los lugares que permite. Para ello, hemos monstado un
 ## Proceso de desarrollo
 > En este apartado vamos a hablar sobre como él equipo se ha ido organizando para llevar a cabo las tareas asociadas al proyecto.
 
+# <a id="ideas"></a>
+
 ### Obtención de ideas
 
 Para decidir que hacer, el grupo opto por el uso del brainstorming para llegar a consenso sobre cual sería la idea ganadora. Tras varias ideas desechadas, finalmente llegamos a esta aplicación.
@@ -56,6 +62,8 @@ Para decidir que hacer, el grupo opto por el uso del brainstorming para llegar a
 
 Para decidir el nombre, se recurrió también a la técnica de brainstroming para obtener varios nombre y poder decidir cual es el más adecuado para la aplicación.
 
+# <a id="herramientas"></a>
+
 ### Herramientas utilizadas
 
 * Kanban
@@ -64,6 +72,8 @@ Para decidir el nombre, se recurrió también a la técnica de brainstroming par
 * Justinmind
 * GitHub
 * Haroopad
+
+# <a id="equipo"></a>
 
 ### Intergantes y roles del equipo de desarrollo
 
@@ -119,6 +129,7 @@ A continuación mostramos a los integrantes del grupo de trabajo con sus respect
 ### Sprints y entregas
 
 
+# <a id="tareas"></a>
 
 ### División de HU en función del sprint abordado
 
