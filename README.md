@@ -27,7 +27,7 @@ Por supuesto, la aplicación cuenta tambien con una visualización en _modo mapa
 |--------|--------|--------|
 | ![Imagen](./screenshots/MapScreen_min.png) |
 
-### Apartado administrativo
+(###apartado-administrativo)
 Cada ciudad debe gestionar los lugares que permite. Para ello, hemos monstado una web en la que podrán fácilmente gestionar las sugerencias de lugares para que aparezcan en su aplicación.
 
 > El motivo para desarrollar el aspecto administrativo de esta forma es a que el planteamiento de esta aplicación es _fomentar el turismo_ facilitando la información al viajante, por lo que la administración de sus puntos recae sobre la oficina de turismo, o del ayuntamiento que desee este servicio.
