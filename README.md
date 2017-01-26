@@ -74,7 +74,7 @@ Para decidir el nombre, se recurrió también a la técnica de brainstroming par
 
 # <a id="equipo"></a>
 
-### Intergantes y roles del equipo de desarrollo
+### Integrantes y roles del equipo de desarrollo
 
 A continuación mostramos a los integrantes del grupo de trabajo con sus respectivos roles asociados:
 
